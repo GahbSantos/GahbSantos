@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Gabriel Santos! 👋
 <div>
    <a href="https://github.com/GahbSantos">
-</div>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ga8_santos/?igshid=MzNINGNkZWQ4Mg%3D%3D)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011218875221)
+</div>
 
 
 ![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=GahbSantos&show_icons=true&theme=dracula)
